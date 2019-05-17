@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="186156" started-at="2019-05-17T18:17:46Z" finished-at="2019-05-17T18:20:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test 4e4133d7-8e0e-4c9d-b6a6-6ff36122076f" duration-ms="186156" started-at="2019-05-17T18:17:46Z" finished-at="2019-05-17T18:20:53Z">
+      <class name="org.testing.TestScripts.TC4">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testing.TestScripts.TC4@13fee20c]" name="tc1" is-config="true" duration-ms="9551" started-at="2019-05-17T23:50:18Z" finished-at="2019-05-17T23:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc8()[pri:0, instance:org.testing.TestScripts.TC4@13fee20c]" name="tc8" duration-ms="17929" started-at="2019-05-17T23:50:27Z" finished-at="2019-05-17T23:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testing.TestScripts.TC4@13fee20c]" name="tc3" is-config="true" duration-ms="7349" started-at="2019-05-17T23:50:45Z" finished-at="2019-05-17T23:50:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.testing.TestScripts.TC4 -->
+      <class name="org.testing.TestScripts.TC3">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testing.TestScripts.TC3@64616ca2]" name="tc1" is-config="true" duration-ms="9553" started-at="2019-05-17T23:48:43Z" finished-at="2019-05-17T23:48:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc8()[pri:0, instance:org.testing.TestScripts.TC3@64616ca2]" name="tc8" duration-ms="77537" started-at="2019-05-17T23:48:53Z" finished-at="2019-05-17T23:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testing.TestScripts.TC3@64616ca2]" name="tc3" is-config="true" duration-ms="7333" started-at="2019-05-17T23:50:10Z" finished-at="2019-05-17T23:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.testing.TestScripts.TC3 -->
+      <class name="org.testing.TestScripts.TC2">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testing.TestScripts.TC2@3b81a1bc]" name="tc1" is-config="true" duration-ms="7767" started-at="2019-05-17T23:48:17Z" finished-at="2019-05-17T23:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.testing.TestScripts.TC2@3b81a1bc]" name="tc5" duration-ms="11504" started-at="2019-05-17T23:48:25Z" finished-at="2019-05-17T23:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testing.TestScripts.TC2@3b81a1bc]" name="tc3" is-config="true" duration-ms="7328" started-at="2019-05-17T23:48:36Z" finished-at="2019-05-17T23:48:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.testing.TestScripts.TC2 -->
+      <class name="org.testing.TestScripts.TC1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testing.TestScripts.TC1@380fb434]" name="tc1" is-config="true" duration-ms="10271" started-at="2019-05-17T23:47:46Z" finished-at="2019-05-17T23:47:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testing.TestScripts.TC1@380fb434]" name="tc2" duration-ms="12669" started-at="2019-05-17T23:47:57Z" finished-at="2019-05-17T23:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testing.TestScripts.TC1@380fb434]" name="tc3" is-config="true" duration-ms="7338" started-at="2019-05-17T23:48:09Z" finished-at="2019-05-17T23:48:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.testing.TestScripts.TC1 -->
+    </test> <!-- Command line test 4e4133d7-8e0e-4c9d-b6a6-6ff36122076f -->
+  </suite> <!-- Suite1 -->
+</testng-results>
